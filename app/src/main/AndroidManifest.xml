@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.bhumijgupta.helloworld">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:label="My profile">
+        <activity
+            android:name=".MainActivity"
+            android:label="My Profile app">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ProfilePhoto"
+            android:label="My Profile Photo" />
+        <activity
+            android:name=".workExperience"
+            android:label="Work Experience" />
+        <activity android:name=".education"
+            android:label="Education"></activity>
+    </application>
+
+</manifest>
