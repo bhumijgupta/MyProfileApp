@@ -6,6 +6,11 @@ The app contains 3 screens - Profile page, Education page and Work experience pa
 # Built with
 - [Android Studio](https://developer.android.com/studio/)
 
+# Installation Instruction
+- Search myprofileapp.apk
+- Download the apk on your android phone
+- Run the apk
+
 # Reach me on
 - bhumijgupta@gmail.com
 - [Website](www.bhumijgupta.me)
