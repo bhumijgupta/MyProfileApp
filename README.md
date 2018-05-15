@@ -14,7 +14,7 @@ The app contains 3 screens - Profile page, Education page, Work experience page 
 
 # Reach me on
 - bhumijgupta@gmail.com
-- [Website](www.bhumijgupta.me)
+- [Website](http://www.bhumijgupta.me)
 
 # Special thanks
 Internshala team for providing the resources and knowledge to make the app possible.
